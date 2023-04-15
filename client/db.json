@@ -1,0 +1,377 @@
+{
+  "armoury": [
+    {
+      "image": "https://img.olympicchannel.com/images/image/private/t_social_share_thumb/f_auto/primary/esx5jhvcg4jvpbb9v1yh",
+      "name": "Fencing 1",
+      "category": "fencing"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/Dy3EwJlG1qI/maxresdefault.jpg",
+      "name": "Fencing 2",
+      "category": "fencing"
+    },
+    {
+      "image": "https://www.xinhuanet.com/english/2019-03/09/137881262_15521134588281n.jpg",
+      "name": "Fencing 3",
+      "category": "fencing"
+    },
+    {
+      "image": "https://img.olympicchannel.com/images/image/private/t_16-9_640/f_auto/v1538355600/primary/d040ayibktmp06ffuixv",
+      "name": "Archery 1",
+      "category": "archery"
+    },
+    {
+      "image": "https://c.ndtvimg.com/2021-07/jqmk8jcg_atanu-das_625x300_23_July_21.jpg",
+      "name": "Archery 2",
+      "category": "archery"
+    },
+    {
+      "image": "https://www.paralympic.org/sites/default/files/styles/large_original/public/images/120831162517333_Kevin%2BEvans_0.jpg?itok=RhwAVwA_",
+      "name": "Archery 3",
+      "category": "archery"
+    },
+    {
+      "image": "https://www.paralympic.org/sites/default/files/images/140727163614752_14700845156_45453b40a2_o_0.jpg",
+      "name": "Shooting 1",
+      "category": "shooting"
+    },
+    {
+      "image": "https://c.ndtvimg.com/2021-08/7768uvok_aishwary-pratap-singh-tomar-_650x400_02_August_21.jpg?im=FaceCrop,algorithm=dnn,width=540,height=405&output-quality=80",
+      "name": "Shooting 2",
+      "category": "shooting"
+    },
+    {
+      "image": "https://images.indianexpress.com/2018/08/shreyasi-singh.jpg",
+      "name": "Shooting 3",
+      "category": "shooting"
+    }
+  ],
+  "aquatics": [
+    {
+      "image": "https://img.olympicchannel.com/images/image/private/t_16-9_640/f_auto/v1538355600/primary/ivhomdiwziijdsgcvkpw",
+      "name": "Swimming 1",
+      "category": "swimming"
+    },
+    {
+      "image": "https://www.swimmersdaily.com/wp-content/uploads/2021/03/joseph-schooling-the-man-who-bea.jpg",
+      "name": "Swimming 2",
+      "category": "swimming"
+    },
+    {
+      "image": "https://www.pbs.org/newshour/app/uploads/2016/08/RTSMTJQ-1024x687.jpg",
+      "name": "Swimming 3",
+      "category": "swimming"
+    },
+    {
+      "image": "https://dxa7m90h2v1am.cloudfront.net/images/2017/11/17/oeghan_obrien_ut_invite_p1601.jpg?width=1128&height=635&mode=crop",
+      "name": "Diving 1",
+      "category": "diving"
+    },
+    {
+      "image": "https://img.olympicchannel.com/images/image/private/t_16-9_640/f_auto/v1538355600/primary/kszdy9zd8cchlql2vanu",
+      "name": "Diving 2",
+      "category": "diving"
+    },
+    {
+      "image": "https://d2um8593lh23fa.cloudfront.net/images/2022/1/28/_CRH0894.jpg",
+      "name": "Diving 3",
+      "category": "diving"
+    },
+    {
+      "image": "https://1.bp.blogspot.com/-BQ14D0tb9d0/YPu-XLo8xfI/AAAAAAAAtLc/HoeClpB8UTIUr0C7DVCbQqcyzAkiyarSQCLcBGAsYHQ/s900/jeff-cable-photography-blog-usa-water-polo-tokyo-olympics-0010.JPG",
+      "name": "Water Polo 1",
+      "category": "waterpolo"
+    },
+    {
+      "image": "https://img.olympicchannel.com/images/image/private/t_s_w960/t_s_16_9_g_auto/f_auto/primary/zvxj7qcpp68rrjn3eocc",
+      "name": "Water Polo 2",
+      "category": "waterpolo"
+    },
+    {
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/6b5198a/2147483647/strip/false/crop/6403x4248+0+0/resize/1486x986!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3a%2Fbb%2F55ff99004a3bb01adc6da77ef6a7%2Fla-photos-1staff-812414-sp-0731-olympics-water-polo-2-rcg.jpg",
+      "name": "Water Polo 3",
+      "category": "waterpolo"
+    }
+  ],
+  "cycling": [
+    {
+      "image": "https://www.cxmagazine.com/wp-content/uploads/2021/11/2021-koksijde-world-cup-men-258910847_2395995313864304_1003594092287375202_n-cxmagazine-bh_1.jpg",
+      "name": "Cyclocross 1",
+      "category": "cyclocross"
+    },
+    {
+      "image": "https://s1.dmcdn.net/v/US92n1Zl9-4QbpeAo/x720",
+      "name": "Cyclocross 2",
+      "category": "cyclocross"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/pLAdD2Z6g3s/maxresdefault.jpg",
+      "name": "Cyclocross 3",
+      "category": "cyclocross"
+    },
+    {
+      "image": "https://img.olympicchannel.com/images/image/private/t_16-9_640/f_auto/v1538355600/primary/nbpoh28wphfqleq2nlbz",
+      "name": "Track Cycling 1",
+      "category": "trackcycling"
+    },
+    {
+      "image": "https://www.xinhuanet.com/english/2018-08/30/137431389_15356374397211n.jpg",
+      "name": "Track Cycling 2",
+      "category": "trackcycling"
+    },
+    {
+      "image": "https://i.eurosport.com/2023/02/12/3554511-72399393-2560-1440.jpg",
+      "name": "Track Cycling 3",
+      "category": "trackcycling"
+    },
+    {
+      "image": "https://media.wired.co.uk/photos/610d63e1b4cb71ff0e15e835/16:9/w_4991,h_2807,c_limit/05082021-wired-BMX-HP%20.jpg",
+      "name": "BMX Racing 1",
+      "category": "bmxracing"
+    },
+    {
+      "image": "https://static01.nyt.com/images/2012/07/20/sports/20bmx_337/20bmx_337-superJumbo.jpg",
+      "name": "BMX Racing 2",
+      "category": "bmxracing"
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/171017153413-04-fit-nation-bmx-race.jpg?q=w_5031,h_2830,x_0,y_0,c_fill",
+      "name": "BMX Racing 3",
+      "category": "bmxracing"
+    }
+  ],
+  "equestrian":[
+    {
+      "image": "https://fei-fan-production.s3.amazonaws.com/s3fs-public/styles/full_page_image/public/180521-endurance-1.jpg?itok=pz-wee0p",
+      "name": "Endurance Riding 1",
+      "category": "enduranceriding"
+    },
+    {
+      "image": "https://africanhorsesafaris.com/wp-content/uploads/2022/08/MMH-Endurance-Adriaan-8_edited-600x400.jpg",
+      "name": "Endurance Riding 2",
+      "category": "enduranceriding"
+    },
+    {
+      "image": "https://fei-fan-production.s3.amazonaws.com/s3fs-public/styles/full_page_image/public/170521-endurance-1.jpg?itok=EEAV4pkz",
+      "name": "Endurance Riding 3",
+      "category": "enduranceriding"
+    },
+    {
+      "image": "https://img.olympicchannel.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/primary/k7hetb7hl6t92hhz9c1a",
+      "name": "Show Jumping 1",
+      "category": "showjumping"
+    },
+    {
+      "image": "https://static.timesofisrael.com/www/uploads/2013/02/dani2.jpg",
+      "name": "Show Jumping 2",
+      "category": "showjumping"
+    },
+    {
+      "image": "https://fei-fan-production.s3.amazonaws.com/s3fs-public/styles/full_page_image/public/020722-yeg-1.jpg?itok=hEA5ZXf1",
+      "name": "Show Jumping 3",
+      "category": "showjumping"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAUIWscJHS4AAj7foA9a-bVtwN8GkqTLjM1g&usqp=CAU",
+      "name": "Eventing 1",
+      "category": "eventing"
+    },
+    {
+      "image": "https://assets.eventingnation.com/wp-content/uploads/2018/05/15094720/unnamed-640x360.png",
+      "name": "Eventing 2",
+      "category": "eventing"
+    },
+    {
+      "image": "https://useventing.com/images/_largeHorizontal/JMD_9470_210217_143203.jpg",
+      "name": "Eventing 3",
+      "category": "eventing"
+    }
+  ],
+  "extreme":[
+    {
+      "image": "https://img.olympicchannel.com/images/image/private/t_16-9_640/f_auto/v1538355600/primary/qipnfiridrr7mngg9vwv",
+      "name": "Surfing 1",
+      "category": "surfing"
+    },
+    {
+      "image": "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2020/5/1/mqgjwevxveuc6fcqvdfc/carissa-moore-waves",
+      "name": "Surfing 2",
+      "category": "surfing"
+    },
+    {
+      "image": "https://media.newyorker.com/photos/5c0852e21e1d6f2d0745d019/4:3/w_1821,h_1366,c_limit/181217_r33425.jpg",
+      "name": "Surfing 3",
+      "category": "surfing"
+    },
+    {
+      "image": "https://gripped.com/wp-content/uploads/2021/08/51357381063_36baaa09ba_c.jpg",
+      "name": "Rock Climbing 1",
+      "category": "rockclimbing"
+    },
+    {
+      "image": "https://cdn.onefc.com/wp-content/uploads/2017/02/Rock-Climbing-_78A8439-e1486231012682.jpg",
+      "name": "Rock Climbing 2",
+      "category": "rockclimbing"
+    },
+    {
+      "image": "https://images.everydayhealth.com/images/whats-the-deal-with-bouldering-therapy-for-depression-1440x810.jpg",
+      "name": "Rock Climbing 3",
+      "category": "rockclimbing"
+    },
+    {
+      "image": "https://wisconsinskydivingcenter.com/wp-content/uploads/2021/09/Young-woman-being-superwoman-during-freefall-at-Wisconsin-Skydiving-Center-near-Chicago.jpeg",
+      "name": "Skydiving 1",
+      "category": "skydiving"
+    },
+    {
+      "image": "https://skydiveparacletexp.com/wp-content/uploads/2020/02/July19-09894.jpg",
+      "name": "Skydiving 2",
+      "category": "skydiving"
+    }, {
+      "image": "https://imgk.timesnownews.com/story/Neeraj_Chopra_skydiving-_screengrab_2.png?tr=w-1200,h-900",
+      "name": "Skydiving 3",
+      "category": "skydiving"
+    }
+  ],
+  "golf":[
+    {
+      "image": "https://hips.hearstapps.com/hmg-prod/images/athing-mu-of-team-united-states-and-keely-hodgkinson-of-news-photo-1658717939.jpg?crop=0.670xw:1.00xh;0.264xw,0&resize=1200:*",
+      "name": "Scramble 1",
+      "category": "scramble"
+    },
+    {
+      "image": "https://clutchpoints.com/_next/image?url=https%3A%2F%2Fwp.clutchpoints.com%2Fwp-content%2Fuploads%2F2022%2F09%2FKyler-Murray-Cardinals-1.jpg&w=3840&q=75",
+      "name": "Scramble 2",
+      "category": "scramble"
+    },
+    {
+      "image": "https://hips.hearstapps.com/hmg-prod/images/michael-norman-of-team-united-states-competes-in-the-mens-news-photo-1658720837.jpg?resize=980:*",
+      "name": "Scramble 3",
+      "category": "scramble"
+    },
+    {
+      "image": "https://jtv.tv/wp-content/gallery/stableford-tournament-at-sharp-park-golf-course-8-20-2022/20220820-DSC_6481.jpg",
+      "name": "Stableford 1",
+      "category": "stableford"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyTff9Fisr_zm4-BTeoQ2BNMQnz9KkjHDvui3uc3QoV9hBYMDRInZ6CN04GMBASWsCtIY&usqp=CAU",
+      "name": "Stableford 2",
+      "category": "stableford"
+    },
+    {
+      "image": "https://jtv.tv/wp-content/gallery/stableford-tournament-at-sharp-park-golf-course-8-20-2022/20220820-DSC_6477.jpg",
+      "name": "Stableford 3",
+      "category": "stableford"
+    },
+    {
+      "image": "https://e3.365dm.com/21/06/768x432/LAND_16_9_5406248.jpg?20210605170358",
+      "name": "Golf 1",
+      "category": "golf"
+    },
+    {
+      "image": "https://athletics.uindy.edu/images/2022/11/1/Carroll-read_SJ40T.jpg",
+      "name": "Golf 2",
+      "category": "golf"
+    },
+    {
+      "image": "https://images.ctfassets.net/56u5qdsjym8c/1AsEu1trYW6FDp8ILRkODk/7dd63b30c628be8c25afe434d2e89f8a/ADM-Play-to-Compete.jpg",
+      "name": "Golf 3",
+      "category": "golf"
+    }
+  ],
+  "lakeandsea":[
+    {
+      "image": "https://img.olympicchannel.com/images/image/private/t_s_pog_staticContent_hero_lg_2x/f_auto/primary/lopjru8h0otvtcngjt13",
+      "name": "Sailing 1",
+      "category": "sailing"
+    },
+    {
+      "image": "https://img.olympicchannel.com/images/image/private/t_16-9_640/f_auto/v1538355600/primary/omespglrk36pvzpspzeu",
+      "name": "Sailing 2",
+      "category": "sailing"
+    },
+    {
+      "image": "https://eckerdtritons.com/images/2021/10/10/nykamp_and_Kacket.jpg",
+      "name": "Sailing 3",
+      "category": "sailing"
+    },
+    {
+      "image": "https://live-production.wcms.abc-cdn.net.au/0fef2cdc32a4c3c913bdd1f4256cf42a?impolicy=wcms_crop_resize&cropH=2808&cropW=4992&xPos=0&yPos=400&width=862&height=485",
+      "name": "Kayaking 1",
+      "category": "kayaking"
+    },
+    {
+      "image": "https://img.olympicchannel.com/images/image/private/t_16-9_640/f_auto/v1538355600/primary/wwyv4uoax7jejlawvwmz",
+      "name": "Kayaking 2",
+      "category": "kayaking"
+    },
+    {
+      "image": "https://img.redbull.com/images/c_fill,w_1200,h_600,g_auto,f_auto,q_auto/redbullcom/2014/03/21/1331640881649_2/ganga-kayak-festival-2014-rishikesh",
+      "name": "Kayaking 3",
+      "category": "kayaking"
+    },
+    {
+      "image": "https://img.olympicchannel.com/images/image/private/t_16-9_640/f_auto/v1538355600/primary/m6is7d4hxjqpjavnzbsy",
+      "name": "Rowing 1",
+      "category": "rowing"
+    },
+    {
+      "image": "https://www.teamsnap.com/_next/image?url=https%3A%2F%2Ftsblogadmin.teamsnap.com%2Fwp-content%2Fuploads%2F2016%2F05%2FMens-Rowing.jpg&w=3840&q=75",
+      "name": "Rowing 2",
+      "category": "rowing"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/4gKskf6eSgE/maxresdefault.jpg",
+      "name": "Rowing 3",
+      "category": "rowing"
+    }
+  ],
+  "gymnastics":[
+    {
+      "image": "https://img.olympicchannel.com/images/image/private/t_16-9_640/f_auto/v1668682870/primary/xsslnej27xwj391dl1gr",
+      "name": "Artistic 1",
+      "category": "artistic"
+    },
+    {
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-84723647/84723647.jpg",
+      "name": "Artistic 2",
+      "category": "artistic"
+    },
+    {
+      "image": "https://static.timesofisrael.com/www/uploads/2020/11/AP_20334530726145.jpg",
+      "name": "Artistic 3",
+      "category": "artistic"
+    },
+    {
+      "image": "https://images.nbcolympics.com/sites/default/files/post/short_form_video/oly20_grgp_3449_bronzeitaly_hlf_210808.jpg",
+      "name": "Rhythmic 1",
+      "category": "rhythmic"
+    },
+    {
+      "image": "https://images.csmonitor.com/csm/2021/08/1124606_4_0806-rythmic-gynamstics_standard.jpg?alias=standard_900x600",
+      "name": "Rhythmic 2",
+      "category": "rhythmic"
+    },
+    {
+      "image": "https://static.toiimg.com/photo/msid-85127064/85127064.jpg",
+      "name": "Rhythmic 3",
+      "category": "rhythmic"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/gPbrWMIolzk/maxresdefault.jpg",
+      "name": "Trampoline 1",
+      "category": "trampoline"
+    },
+    {
+      "image": "https://www.xinhuanet.com/english/2019-11/28/138589949_15750379582351n.jpg",
+      "name": "Trampoline 2",
+      "category": "trampoline"
+    },
+    {
+      "image": "https://cdn.dmcl.biz/media/image/223815/o/GettyImages-1234340468.jpg",
+      "name": "Trampoline 3",
+      "category": "trampoline"
+    }
+  ]
+}

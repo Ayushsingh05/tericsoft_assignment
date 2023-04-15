@@ -1,0 +1,49 @@
+import {
+  faStar,
+  faShieldHalved,
+  faPersonSwimming,
+  faPersonBiking,
+  faHorseHead,
+  faHockeyPuck,
+  faGolfBall,
+  faRunning,
+  faSailboat,
+} from "@fortawesome/free-solid-svg-icons";
+export const iconsData = [
+    {
+        key:faStar,
+        value:"Features"
+    },
+    {
+        key:faShieldHalved,
+        value:"Armoury"
+    },
+    {
+        key:faPersonSwimming,
+        value:"Aquatics"
+    },
+    {
+        key:faPersonBiking,
+        value:"Cycling"
+    },
+    {
+        key:faHorseHead,
+        value:"Equestrian"
+    },
+    {
+        key:faHockeyPuck,
+        value:"Extreme"
+    },
+    {
+        key:faGolfBall,
+        value:"Golf"
+    },
+    {
+        key:faRunning,
+        value:"Gymnastics"
+    },
+    {
+        key:faSailboat,
+        value:"Lake and Sea"
+    }
+];
