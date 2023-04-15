@@ -1,12 +1,12 @@
 import React from 'react'
 
-export const BottomNav = () => {
+export const BottomNav = (props) => {
   return (
     <div className='bottomnav_container'>
       <div className='bottomNav'>
-        <div>1</div>
-        <div>2</div>
-        <div>3</div>
+        <div>{props.name1}</div>
+        <div>{props.name2}</div>
+        <div>{props.name3}</div>
       </div>
     </div>
   )

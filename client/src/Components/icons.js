@@ -44,6 +44,6 @@ export const iconsData = [
     },
     {
         key:faSailboat,
-        value:"Lake and Sea"
+        value:"Lakeandsea"
     }
 ];

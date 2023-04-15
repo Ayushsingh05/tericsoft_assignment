@@ -9,13 +9,16 @@ import { Extreme } from '../Pages/Extreme'
 import { Golf } from '../Pages/Golf'
 import { Gymnastics } from '../Pages/Gymnastics'
 import { LakeAndSea } from '../Pages/LakeAndSea'
+import { Navbar } from '../Components/Navbar'
 
 export const AllRoutes = () => {
   return (
+    <>
+    <Navbar/>
     <Routes>
         <Route  path='/' element={<Features/>} />
         <Route  path='/armoury' element={<Armoury/>}  />
-        <Route  path='/aquatic' element={<Aquatic/>} />
+        <Route  path='/aquatics' element={<Aquatic/>} />
         <Route  path='/cycling' element={<Cycling/>} />
         <Route  path='/equestrian' element={<Equestrian/>}  /> 
         <Route  path='/extreme'   element={<Extreme/>}  />
@@ -23,5 +26,6 @@ export const AllRoutes = () => {
         <Route  path='/gymnastics' element={<Gymnastics/>} />
         <Route  path='/lakeandsea' element={<LakeAndSea/>} />
     </Routes>
+    </>
   )
 }
